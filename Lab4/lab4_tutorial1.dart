@@ -2,7 +2,7 @@ import 'package:lab4_tutorial1/lab4_tutorial1.dart' as lab4_tutorial1;
 
 import 'dart:math';
 
-//Manushi
+//Pratham
 
 /* Constructors are of 5 types:
 (Constuctor with class _name only is un_named constructor)
@@ -93,7 +93,7 @@ void main(List<String> arguments) {
   /*
   // Mini exrecises
   Password p1 = Password();
-  p1.value = 'manu@0123';
+  p1.value = 'pathu@0123';
   print(p1.isVal_id());
   p1.value = '1234';
   print(p1.isVal_id());
