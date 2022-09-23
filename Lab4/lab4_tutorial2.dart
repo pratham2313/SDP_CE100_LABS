@@ -2,7 +2,7 @@ import 'package:lab4_tutorial2/lab4_tutorial2.dart' as lab4_tutorial2;
 
 import 'dart:math';
 
-//Manushi
+//Pratham
 
 bool isPositive(int? anInteger) {
   if (anInteger == null) {
