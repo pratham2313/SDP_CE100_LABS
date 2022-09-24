@@ -37,9 +37,9 @@ void main() {
 
   // 3. 
   final users = [
-    User(1, 'Meet'),
+    User(1, 'Pratham'),
     User(2, 'MAP'),
-    User(3, 'Meetkumar'),
+    User(3, 'Nilkanth'),
   ];
 
   List<Map<String, Object>> usersToMapList(List<User> users) {
@@ -54,5 +54,5 @@ void main() {
     return userMapList;
   }
 
-  print(usersToMapList(users)); // [{id: 1, name: Meet}, {id: 2, name: MAP}, {id: 3, name: Meetkumar}]
+  print(usersToMapList(users)); // [{id: 1, name: Pratham}, {id: 2, name: MAP}, {id: 3, name: Nilkanth}]
 }
