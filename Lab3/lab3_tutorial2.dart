@@ -35,7 +35,7 @@ void main() {
       return '$first $last';
     }
   }
-  print(fullName("Dhiren","Chaudhari"));
+  print(fullName("Pratham","Patel"));
   */
 
   /*
