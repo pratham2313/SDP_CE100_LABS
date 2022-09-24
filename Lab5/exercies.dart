@@ -39,7 +39,7 @@ void main() {
   // 4. Create a map with the following keys: name, profession, country and city. For the values, add your own information.
 
   final map = {
-    'name': 'Meet',
+    'name': 'Pratham',
     'profession': 'Student',
     'country': 'India',
     'city': 'Nvs'
